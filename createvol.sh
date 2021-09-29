@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Mani changes
 aws --version
 for X in {1..1}; do
     echo "The value X is $X now..."
