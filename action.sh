@@ -1,1 +1,2 @@
+#action
 ACTION="DELETE"
