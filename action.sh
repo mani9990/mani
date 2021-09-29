@@ -1,2 +1,2 @@
 #action
-ACTION="DELETE"
+export ACTION="DELETE"
